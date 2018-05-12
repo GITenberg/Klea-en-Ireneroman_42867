@@ -1,0 +1,42 @@
+_repo: Klea-en-Ireneroman_42867
+_version: 0.1.0
+alternative_title: Die Schwestern. Dutch
+contributor:
+  translator:
+    agent_name: Rogge, Hendrik Cornelis
+    birthdate: 1831
+    deathdate: 1905
+    gutenberg_agent_id: '33157'
+    url: http://www.gutenberg.org/2009/agents/33157
+    wikipedia:
+    - http://www.dbnl.org/tekst/molh003nieu10_01/molh003nieu10_01_1216.htm
+    - http://www.knaw.nl/CFdata/leden/historisch_ledenlist.cfm?persoon=1541
+covers:
+- cover_type: archival
+  image_path: 42867-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Ebers, Georg
+    aliases:
+    - Ebers, George Moritz
+    - Ebers, Georg Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
+description: ''
+gutenberg_issued: '2013-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42867'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- History -- 332-30 B.C. -- Fiction'
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into Dutch'
+title: 'Klea en Irene: roman'
+url: http://www.gutenberg.org/ebooks/42867
